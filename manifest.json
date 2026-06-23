@@ -1,0 +1,11 @@
+{
+	"id": "dnd-tasksboard",
+	"name": "DND Tasksboard",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "DnD доска задач для markdown-файлов внутри папок с припиской -tasks",
+	"author": "Anton Ind.",
+	"authorUrl": "https://github.com/IndyukovAnton",
+	"helpUrl": "",
+	"isDesktopOnly": false
+}
